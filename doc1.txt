@@ -1,8 +1,11 @@
-<<<<<<< HEAD
+
 mi primer documento modificado para la version 2(evolucion mi rama master)
+=======
+(comentario desde rama 2 en commit 1)mi primer documento modificado para la version 2
+
 =======
 mi primer documento
 
 este e smi segundo comentario
 
->>>>>>> rama1
+
