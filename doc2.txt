@@ -1,1 +1,3 @@
 mi segundo documento
+
+este es el primer coment desde rama 1 para commit 2
