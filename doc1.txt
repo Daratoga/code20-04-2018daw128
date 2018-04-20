@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-mi primer documento modificado para la version 2
+mi primer documento modificado para la version 2(evolucion mi rama master)
 =======
 mi primer documento
 
